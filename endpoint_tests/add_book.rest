@@ -1,0 +1,9 @@
+POST http://localhost:3000/books
+Content-Type: application/json
+
+{
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": 13579,
+    "availability": true
+}

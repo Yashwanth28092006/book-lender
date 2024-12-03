@@ -2,7 +2,8 @@
   "dependencies": {
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.6",
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
   },
   "name": "book_lending_app",
   "version": "1.0.0",
