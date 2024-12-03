@@ -1,5 +1,5 @@
 const { PGHOST, PGDATABASE, PGUSER, PGPASSWORD } = process.env;
-const bodyParser = require('body-parser');
+// const bodyParser = require('body-parser');
 const express = require('express')
 const { Pool } = require('pg')
 const dotenv = require('dotenv');
