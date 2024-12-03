@@ -2,6 +2,7 @@
 1. Server environment: Node JS
 2. Web Server: Express JS
 3. Database: PostgreSQL (neon tech cloud)
+# Note: *.env file is not given in the zip file submitted*
 # Screenshots of database
 ## 1. Books Table:
 ![books_table](./neon_sql_screenshots/books_table.png)
